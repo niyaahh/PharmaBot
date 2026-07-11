@@ -64,36 +64,12 @@ PharmaBot is an IoT-based automated medicine dispensing system designed to impro
 
 ---
 
-## 📷 Project Images
+## 📷 Project Images & Demo
 
-Add your project images here.
+Due to the large size of the project files, images, circuit diagrams, block diagrams, documentation, and working videos are available in the Google Drive folder below.
 
-Example:
+🔗 **Google Drive:** https://drive.google.com/drive/folders/1vm8U74lAMBuswgnjoy2D54bhkQ2kxDfW?usp=drive_link
 
-- Hardware Setup
-- Circuit Diagram
-- Block Diagram
-- Doctor Dashboard
-- QR Code
-- Medicine Dispensing
-
----
-
-## 🎥 Demonstration
-
-Add your project video link here.
-
-Example:
-
-Google Drive:
-(Your Link)
-
-or
-
-YouTube:
-(Your Link)
-
----
 
 ## 📂 Repository Structure
 
